@@ -1,4 +1,4 @@
-# Insert Game Name Here
+# Coin Chase
 ## I. High Concept
 
 A 2d platformer where the player must move around the level to collect as many coins as possible in a set time limit.
