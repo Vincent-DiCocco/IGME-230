@@ -6,12 +6,12 @@ A 2d platformer where the player must move around the level to collect as many c
 
 ## II. Genre
 
-Platformer
+The game will be a platformer based around collecting coins.
 
 
 ## III. Platform
 
-Desktop-only
+The game is planned to be desktop-only.
 
 
 ## IV. Story
@@ -23,7 +23,7 @@ by collecting enough coins on previous levels.
 
 ## V. Esthetics
 
-The game will have cartoonish graphics with ambient sounds such as wind. There will also be a sound used when the player collects a coin.
+The game will have cartoonish graphics with ambient sounds, such as wind. There will also be a sound used when the player collects a coin.
 
 
 ## VI. Gameplay
